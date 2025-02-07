@@ -12,7 +12,7 @@ A simple Flutter app for counting basketball points for two teams. This project 
 ## How to Run 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/basketball_points_counter.git
+   git clone https://github.com/hussein610/basketball_points_counter.git
    ```
 2. Navigate to the project folder:
    ```bash
