@@ -35,4 +35,4 @@ A simple Flutter app for counting basketball points for two teams. This project 
 ## Contribution 🤝
 Feel free to fork the repository and submit pull requests. Suggestions and improvements are welcome!
 
-##By:Eng.Hussein Taha
+## By:Eng.Hussein Taha
